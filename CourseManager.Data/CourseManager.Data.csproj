@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.4" />
+		<PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.4" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+		<PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\CourseManager.Common\CourseManager.Common.csproj" />
+		<ProjectReference Include="..\CourseManager.Model\CourseManager.Model.csproj" />
+	</ItemGroup>
+	
+</Project>
