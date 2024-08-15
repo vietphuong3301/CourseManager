@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H08AAGkj220ivUib6XNRdSQcqGvm2ePyJ3c4fG7L5XtkAuUTLnMcUcLANo99whcC90wY3alWZmIDY7/mpzoM6g==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
