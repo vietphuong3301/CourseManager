@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Nqx6oToSW4NYqPkKvX19lyb0Qm2C+lYVnE3zPlyrN2CfusytyDwcShHJpv/VZmjFAnnsmtvhKyk5CsKOIaCSg==",
+  "dgSpecHash": "6cqeUTu/Af5/YECIUlBkVe2Omte616E56MX9YlgsFXgHsMlIIbhSqKFdK7HEjxsXW6bbxabQx70whf3mKOW8WQ==",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
+  "projectFilePath": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -48,6 +48,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",
