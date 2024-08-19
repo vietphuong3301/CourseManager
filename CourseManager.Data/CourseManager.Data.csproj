@@ -21,4 +21,8 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManager.Domain\CourseManager.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

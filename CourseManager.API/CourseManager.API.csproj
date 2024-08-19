@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManager.DTO\CourseManager.DTO.csproj" />
+    <ProjectReference Include="..\CourseManager.Services\CourseManager.Services.csproj" />
+  </ItemGroup>
+
 </Project>
