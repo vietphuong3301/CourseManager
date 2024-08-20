@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CourseManager.Domain.Entities.CourseManager.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,5 +22,7 @@ namespace CourseManager.Domain.Entities
         public CourseType CourseType { get; set; }
         public Instructor Instructor { get; set; }
         public ICollection<Student> Students { get; set; }
+        public ICollection<UserCourse> UserCourses { get; set;}
+        public ICollection<Grade> Grades { get; set; }
     }
 }

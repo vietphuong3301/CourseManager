@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\CourseManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseManager.API\\appsettings.json",
+              "ToolTip": "D:\\CourseManager\\CourseManager.API\\appsettings.json",
+              "RelativeToolTip": "CourseManager.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T10:29:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Program.cs",
+              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeToolTip": "CourseManager.API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T06:24:44.795Z",
+              "WhenOpened": "2024-08-19T10:29:09.193Z",
               "EditorCaption": ""
             }
           ]
