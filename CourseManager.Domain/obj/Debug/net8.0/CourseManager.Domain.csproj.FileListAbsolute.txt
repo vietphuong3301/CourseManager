@@ -1,0 +1,12 @@
+D:\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.deps.json
+D:\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.dll
+D:\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.pdb
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.AssemblyInfoInputs.cache
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.AssemblyInfo.cs
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.csproj.CoreCompileInputs.cache
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.sourcelink.json
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.dll
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\refint\CourseManager.Domain.dll
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.pdb
+D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\ref\CourseManager.Domain.dll

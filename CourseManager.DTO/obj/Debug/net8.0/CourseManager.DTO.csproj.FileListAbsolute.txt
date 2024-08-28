@@ -1,0 +1,13 @@
+D:\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.deps.json
+D:\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.dll
+D:\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.pdb
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.csproj.AssemblyReference.cache
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.AssemblyInfoInputs.cache
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.AssemblyInfo.cs
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.csproj.CoreCompileInputs.cache
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.sourcelink.json
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.dll
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\refint\CourseManager.DTO.dll
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.pdb
+D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\ref\CourseManager.DTO.dll
