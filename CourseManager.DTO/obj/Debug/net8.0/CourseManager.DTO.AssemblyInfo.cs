@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseManager.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016b31d1e467e90171c64616c75c5324a7654ce9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482c09227b6fbb004a5a69a254d085a99d5f789f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseManager.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseManager.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

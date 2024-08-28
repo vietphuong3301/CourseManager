@@ -1,9 +1,4 @@
 ﻿using CourseManager.Domain.Entities.CourseManager.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CourseManager.Domain.Entities
 {
@@ -19,10 +14,11 @@ namespace CourseManager.Domain.Entities
 
         // Navigation properties
         public Category Category { get; set; }
+
         public CourseType CourseType { get; set; }
         public Instructor Instructor { get; set; }
         public ICollection<Student> Students { get; set; }
-        public ICollection<UserCourse> UserCourses { get; set;}
+        public ICollection<UserCourse> UserCourses { get; set; }
         public ICollection<Grade> Grades { get; set; }
     }
 }
