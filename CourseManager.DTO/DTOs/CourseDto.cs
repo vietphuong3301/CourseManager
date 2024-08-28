@@ -1,0 +1,12 @@
+﻿namespace CourseManager.DTO.DTOs
+{
+    public class CourseDto
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public int Credits { get; set; }
+        public CategoryDto Category { get; set; }
+        public CourseTypeDto CourseType { get; set; }
+        public InstructorDto Instructor { get; set; }
+    }
+}
