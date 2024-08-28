@@ -20,10 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DbContext\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CourseManager.Domain\CourseManager.Domain.csproj" />
   </ItemGroup>
 
