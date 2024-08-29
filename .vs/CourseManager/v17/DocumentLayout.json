@@ -3,50 +3,6 @@
   "WorkspaceRootPath": "D:\\CourseManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,16 +11,8 @@
       "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\interfaces\\icoursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\interfaces\\icoursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,196 +39,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Program.cs",
-              "RelativeDocumentMoniker": "CourseManager.API\\Program.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Program.cs",
-              "RelativeToolTip": "CourseManager.API\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:39:39.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "CourseManager.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:31:32.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Domain\\Interfaces\\IBaseRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeToolTip": "CourseManager.Domain\\Interfaces\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:31:30.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "CourseManager.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:31:26.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "CourseManager.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:27:32.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Services\\UserService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\UserService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Services\\UserService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:24:31.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:22:52.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:17:37.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Services\\CategoryService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:20:49.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "CourseTypeService.cs",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
               "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CourseTypeService.cs",
               "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
               "RelativeToolTip": "CourseManager.Services\\Services\\CourseTypeService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABfAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:14:36.687Z"
+              "WhenOpened": "2024-08-29T07:38:35.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IBaseService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\IBaseService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Interfaces\\IBaseService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\IBaseService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Interfaces\\IBaseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:09:11.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:06:00.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "CourseService.cs",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CourseService.cs",
               "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
               "RelativeToolTip": "CourseManager.Services\\Services\\CourseService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAApwBgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:03:05.092Z"
+              "WhenOpened": "2024-08-29T07:04:08.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "CourseManager.Domain\\Interfaces\\ICourseRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\Interfaces\\ICourseRepository.cs",
-              "RelativeToolTip": "CourseManager.Domain\\Interfaces\\ICourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CourseManager.Services\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwE4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:02:10.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICourseService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Interfaces\\ICourseService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICourseService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Interfaces\\ICourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:00:55.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICourseTypeService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICourseTypeService.cs",
-              "RelativeDocumentMoniker": "CourseManager.Services\\Interfaces\\ICourseTypeService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Interfaces\\ICourseTypeService.cs",
-              "RelativeToolTip": "CourseManager.Services\\Interfaces\\ICourseTypeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:00:39.773Z"
+              "WhenOpened": "2024-08-29T06:32:58.913Z",
+              "EditorCaption": ""
             }
           ]
         }

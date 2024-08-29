@@ -9,6 +9,7 @@
       "CourseManager.Services/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "CourseManager.DTO": "1.0.0",
           "CourseManager.Data": "1.0.0",
           "CourseManager.Domain": "1.0.0",
           "CourseManager.Mapping": "1.0.0",
@@ -613,9 +614,19 @@
           "CourseManager.Domain.dll": {}
         }
       },
-      "CourseManager.Mapping/1.0.0": {
+      "CourseManager.DTO/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
+        },
+        "runtime": {
+          "CourseManager.DTO.dll": {}
+        }
+      },
+      "CourseManager.Mapping/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "CourseManager.DTO": "1.0.0",
+          "CourseManager.Domain": "1.0.0"
         },
         "runtime": {
           "CourseManager.Mapping.dll": {}
@@ -1048,6 +1059,11 @@
       "sha512": ""
     },
     "CourseManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseManager.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

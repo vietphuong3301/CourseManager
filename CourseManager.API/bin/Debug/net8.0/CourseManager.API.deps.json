@@ -2132,8 +2132,7 @@
       },
       "CourseManager.DTO/1.0.0": {
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "CourseManager.Mapping": "1.0.0"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
         },
         "runtime": {
           "CourseManager.DTO.dll": {}
@@ -2141,7 +2140,9 @@
       },
       "CourseManager.Mapping/1.0.0": {
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "CourseManager.DTO": "1.0.0",
+          "CourseManager.Domain": "1.0.0"
         },
         "runtime": {
           "CourseManager.Mapping.dll": {}
@@ -2150,6 +2151,7 @@
       "CourseManager.Services/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "CourseManager.DTO": "1.0.0",
           "CourseManager.Data": "1.0.0",
           "CourseManager.Domain": "1.0.0",
           "CourseManager.Mapping": "1.0.0",

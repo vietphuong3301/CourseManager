@@ -2,19 +2,82 @@
 using CourseManager.Domain.Entities;
 using CourseManager.Domain.Interfaces;
 using CourseManager.DTO.DTOs;
-using CourseManager.Services.Interfaces;
+using System;
+using System.Collections.Generic;
 using System.Linq.Expressions;
+using System.Threading.Tasks;
 
 namespace CourseManager.Services.Services
 {
-    public class CourseService : BaseService<Course, CourseDto>, ICourseService
+    public interface ICourseService
+    {
+        Task<CourseDto> GetById(int id);
+        Task<IEnumerable<CourseDto>> GetAll();
+        Task<CourseDto> CreateAsync(CourseDto course);
+        Task<bool> UpdateAsync(CourseDto course);
+        Task<bool> DeleteAsync(int id);
+        Task<(IEnumerable<CourseDto> Items, int TotalCount)> GetPagedAsync(int pageIndex, int pageSize);
+        Task<CourseDto> GetSingleAsync(Expression<Func<CourseDto, bool>> predicate);
+        Task<IEnumerable<CourseDto>> GetByCategoryAsync(int categoryId);
+        Task<IEnumerable<CourseDto>> GetByCourseTypeAsync(int courseTypeId);
+    }
+
+    public class CourseService : ICourseService
     {
         private readonly ICourseRepository _courseRepository;
+        private readonly IMapper _mapper;
 
         public CourseService(ICourseRepository courseRepository, IMapper mapper)
-            : base(courseRepository, mapper)
         {
             _courseRepository = courseRepository;
+            _mapper = mapper;
+        }
+
+        public async Task<CourseDto> CreateAsync(CourseDto courseDto)
+        {
+            var course = _mapper.Map<Course>(courseDto);
+            await _courseRepository.AddAsync(course);
+            return _mapper.Map<CourseDto>(course);
+        }
+
+        public async Task<bool> DeleteAsync(int id)
+        {
+            await _courseRepository.DeleteAsync(id);
+            return true;
+        }
+
+        public async Task<IEnumerable<CourseDto>> GetAll()
+        {
+            var courses = await _courseRepository.GetAllAsync();
+            return _mapper.Map<IEnumerable<CourseDto>>(courses);
+        }
+
+        public async Task<CourseDto> GetById(int id)
+        {
+            var course = await _courseRepository.GetByIdAsync(id);
+            return _mapper.Map<CourseDto>(course);
+        }
+
+        public async Task<(IEnumerable<CourseDto> Items, int TotalCount)> GetPagedAsync(int pageIndex, int pageSize)
+        {
+            var (courses, totalCount) = await _courseRepository.GetPagedAsync(pageIndex, pageSize);
+            var courseDtos = _mapper.Map<IEnumerable<CourseDto>>(courses);
+            return (courseDtos, totalCount);
+        }
+
+        public async Task<CourseDto> GetSingleAsync(Expression<Func<CourseDto, bool>> predicate)
+        {
+            // Chuyển đổi predicate từ CourseDto sang Course
+            var coursePredicate = _mapper.Map<Expression<Func<Course, bool>>>(predicate);
+            var course = await _courseRepository.GetSingleAsync(coursePredicate);
+            return _mapper.Map<CourseDto>(course);
+        }
+
+        public async Task<bool> UpdateAsync(CourseDto courseDto)
+        {
+            var course = _mapper.Map<Course>(courseDto);
+            await _courseRepository.UpdateAsync(course);
+            return true;
         }
 
         public async Task<IEnumerable<CourseDto>> GetByCategoryAsync(int categoryId)
@@ -27,13 +90,6 @@ namespace CourseManager.Services.Services
         {
             var courses = await _courseRepository.GetByCourseTypeAsync(courseTypeId);
             return _mapper.Map<IEnumerable<CourseDto>>(courses);
-        }
-
-        public override async Task<CourseDto> GetSingleAsync(Expression<Func<CourseDto, bool>> predicate)
-        {
-            var entityPredicate = _mapper.Map<Expression<Func<Course, bool>>>(predicate);
-            var course = await _courseRepository.GetSingleAsync(entityPredicate);
-            return _mapper.Map<CourseDto>(course);
         }
     }
 }

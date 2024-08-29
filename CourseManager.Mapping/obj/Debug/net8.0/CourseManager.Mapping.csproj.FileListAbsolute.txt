@@ -11,3 +11,8 @@ D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.dl
 D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\refint\CourseManager.Mapping.dll
 D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.pdb
 D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\ref\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.Domain.dll
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.DTO.dll
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.Domain.pdb
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.DTO.pdb
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseMa.6FBA3952.Up2Date

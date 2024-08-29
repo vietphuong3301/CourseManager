@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseManager.Mapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b76dfa6548fd164738922812ab8d31869bb91049")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5acc4b87eed2fffa51d64cdfab53aaa8f5382d76")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseManager.Mapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseManager.Mapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -471,6 +471,9 @@
               "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj": {
                 "projectPath": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj"
               },
+              "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj": {
+                "projectPath": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj"
+              },
               "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj": {
                 "projectPath": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj"
               }
