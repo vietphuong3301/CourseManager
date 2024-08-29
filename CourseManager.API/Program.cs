@@ -1,5 +1,10 @@
 using CourseManager.Data;
+using CourseManager.Data.Repositories;
+using CourseManager.Domain.Interfaces;
 using CourseManager.Mapping;
+using CourseManager.Services.Interfaces;
+using CourseManager.Services.Services;
+using CourseManager.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +13,16 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+builder.Services.AddScoped<ICourseTypeRepository, CourseTypeRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
+builder.Services.AddScoped<ICourseTypeService, CourseTypeService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 
 // Add services to the container.
