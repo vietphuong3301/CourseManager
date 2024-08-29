@@ -2,7 +2,7 @@
 
 namespace CourseManager.Domain.Interfaces
 {
-    public interface IUserRepository
+    public interface IUserRepository 
     {
     
     }

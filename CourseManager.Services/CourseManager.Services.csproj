@@ -12,11 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CourseManager.Data\CourseManager.Data.csproj" />
     <ProjectReference Include="..\CourseManager.Domain\CourseManager.Domain.csproj" />
     <ProjectReference Include="..\CourseManager.Mapping\CourseManager.Mapping.csproj" />
