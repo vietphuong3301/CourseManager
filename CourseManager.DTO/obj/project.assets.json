@@ -107,19 +107,6 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
-      },
-      "CourseManager.Mapping/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
-        },
-        "compile": {
-          "bin/placeholder/CourseManager.Mapping.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CourseManager.Mapping.dll": {}
-        }
       }
     }
   },
@@ -317,17 +304,11 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "CourseManager.Mapping/1.0.0": {
-      "type": "project",
-      "path": "../CourseManager.Mapping/CourseManager.Mapping.csproj",
-      "msbuildProject": "../CourseManager.Mapping/CourseManager.Mapping.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
-      "CourseManager.Mapping >= 1.0.0"
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1"
     ]
   },
   "packageFolders": {
@@ -361,11 +342,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj": {
-              "projectPath": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

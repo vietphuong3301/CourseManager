@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|d:\\coursemanager\\coursemanager.dto\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB28E024-87A8-4560-8C0A-0EB77BD6A7A6}|CourseManager.Mapping\\CourseManager.Mapping.csproj|d:\\coursemanager\\coursemanager.mapping\\coursemanager.mapping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -19,20 +19,24 @@
       "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\coursemanager.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\coursemanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\coursemanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\coursemanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\coursemanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FB28E024-87A8-4560-8C0A-0EB77BD6A7A6}|CourseManager.Mapping\\CourseManager.Mapping.csproj|d:\\coursemanager\\coursemanager.mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E024-87A8-4560-8C0A-0EB77BD6A7A6}|CourseManager.Mapping\\CourseManager.Mapping.csproj|solutionrelative:coursemanager.mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\coursemanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\coursemanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB28E024-87A8-4560-8C0A-0EB77BD6A7A6}|CourseManager.Mapping\\CourseManager.Mapping.csproj|d:\\coursemanager\\coursemanager.mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB28E024-87A8-4560-8C0A-0EB77BD6A7A6}|CourseManager.Mapping\\CourseManager.Mapping.csproj|solutionrelative:coursemanager.mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\coursemanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\coursemanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\coursemanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\coursemanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,21 +62,34 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\CourseManager\\CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "ToolTip": "D:\\CourseManager\\CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:33:06.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Program.cs",
               "RelativeDocumentMoniker": "CourseManager.API\\Program.cs",
               "ToolTip": "D:\\CourseManager\\CourseManager.API\\Program.cs",
               "RelativeToolTip": "CourseManager.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T02:20:17.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseManager.Services",
+              "DocumentIndex": 6,
+              "Title": "CourseManager.Services.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\CourseManager.Services.csproj",
               "RelativeDocumentMoniker": "CourseManager.Services\\CourseManager.Services.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.Services\\CourseManager.Services.csproj",
@@ -85,20 +102,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CourseManager.Mapping",
+              "Title": "CourseManager.Mapping.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj",
               "RelativeDocumentMoniker": "CourseManager.Mapping\\CourseManager.Mapping.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj",
               "RelativeToolTip": "CourseManager.Mapping\\CourseManager.Mapping.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:19:31.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseManager.Domain",
+              "DocumentIndex": 7,
+              "Title": "CourseManager.Domain.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
               "RelativeDocumentMoniker": "CourseManager.Domain\\CourseManager.Domain.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
@@ -110,8 +127,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseManager.Data",
+              "DocumentIndex": 8,
+              "Title": "CourseManager.Data.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
               "RelativeDocumentMoniker": "CourseManager.Data\\CourseManager.Data.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
@@ -123,8 +140,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseManager.API",
+              "DocumentIndex": 5,
+              "Title": "CourseManager.API.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
               "RelativeDocumentMoniker": "CourseManager.API\\CourseManager.API.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
@@ -137,25 +154,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CourseManager.DTO",
+              "Title": "CourseManager.DTO.csproj",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj",
               "RelativeDocumentMoniker": "CourseManager.DTO\\CourseManager.DTO.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj",
               "RelativeToolTip": "CourseManager.DTO\\CourseManager.DTO.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:14:22.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Mapping\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "CourseManager.Mapping\\AutoMapperProfile.cs",
               "ToolTip": "D:\\CourseManager\\CourseManager.Mapping\\AutoMapperProfile.cs",
               "RelativeToolTip": "CourseManager.Mapping\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T10:13:38.956Z",
               "EditorCaption": ""

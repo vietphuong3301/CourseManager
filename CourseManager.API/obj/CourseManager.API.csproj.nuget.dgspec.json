@@ -317,11 +317,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj": {
-                "projectPath": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -391,7 +387,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj": {
+                "projectPath": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj"
+              },
+              "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj": {
+                "projectPath": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

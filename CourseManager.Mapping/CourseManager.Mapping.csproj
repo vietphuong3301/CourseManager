@@ -10,4 +10,9 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManager.Domain\CourseManager.Domain.csproj" />
+    <ProjectReference Include="..\CourseManager.DTO\CourseManager.DTO.csproj" />
+  </ItemGroup>
+
 </Project>

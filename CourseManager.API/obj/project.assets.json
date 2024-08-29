@@ -4048,8 +4048,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "CourseManager.Mapping": "1.0.0"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
         },
         "compile": {
           "bin/placeholder/CourseManager.DTO.dll": {}
@@ -4062,7 +4061,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "CourseManager.DTO": "1.0.0",
+          "CourseManager.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CourseManager.Mapping.dll": {}
