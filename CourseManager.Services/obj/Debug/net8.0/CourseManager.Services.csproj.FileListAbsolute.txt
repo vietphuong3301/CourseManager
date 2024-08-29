@@ -16,3 +16,5 @@ D:\CourseManager\CourseManager.Services\obj\Debug\net8.0\CourseManager.Services.
 D:\CourseManager\CourseManager.Services\obj\Debug\net8.0\refint\CourseManager.Services.dll
 D:\CourseManager\CourseManager.Services\obj\Debug\net8.0\CourseManager.Services.pdb
 D:\CourseManager\CourseManager.Services\obj\Debug\net8.0\ref\CourseManager.Services.dll
+D:\CourseManager\CourseManager.Services\bin\Debug\net8.0\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.Services\bin\Debug\net8.0\CourseManager.Mapping.pdb

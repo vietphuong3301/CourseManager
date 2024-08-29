@@ -162,3 +162,5 @@ D:\CourseManager\CourseManager.API\obj\Debug\net8.0\refint\CourseManager.API.dll
 D:\CourseManager\CourseManager.API\obj\Debug\net8.0\CourseManager.API.pdb
 D:\CourseManager\CourseManager.API\obj\Debug\net8.0\CourseManager.API.genruntimeconfig.cache
 D:\CourseManager\CourseManager.API\obj\Debug\net8.0\ref\CourseManager.API.dll
+D:\CourseManager\CourseManager.API\bin\Debug\net8.0\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.API\bin\Debug\net8.0\CourseManager.Mapping.pdb
