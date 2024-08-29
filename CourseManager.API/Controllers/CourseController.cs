@@ -78,18 +78,6 @@ namespace CourseManager.API.Controllers
             return Ok(new { Items = items, TotalCount = totalCount });
         }
 
-        [HttpGet("single")]
-        public async Task<IActionResult> GetSingle([FromQuery] string predicate)
-        {
-            // Assuming predicate is passed as a query string and needs to be parsed
-            // This is a simplified example, in real scenarios, you might need to handle this differently
-            var course = await _courseService.GetSingleAsync(c => c.Name.Contains(predicate));
-            if (course == null)
-            {
-                return NotFound();
-            }
-            return Ok(course);
-        }
 
         [HttpGet("category/{categoryId}")]
         public async Task<IActionResult> GetByCategory(int categoryId)
