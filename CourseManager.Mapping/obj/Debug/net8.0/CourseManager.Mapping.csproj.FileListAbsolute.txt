@@ -1,0 +1,13 @@
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.Mapping.deps.json
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.Mapping\bin\Debug\net8.0\CourseManager.Mapping.pdb
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.csproj.AssemblyReference.cache
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.AssemblyInfoInputs.cache
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.AssemblyInfo.cs
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.csproj.CoreCompileInputs.cache
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.sourcelink.json
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\refint\CourseManager.Mapping.dll
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\CourseManager.Mapping.pdb
+D:\CourseManager\CourseManager.Mapping\obj\Debug\net8.0\ref\CourseManager.Mapping.dll

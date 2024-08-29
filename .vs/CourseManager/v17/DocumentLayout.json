@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CourseManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\coursemanager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -55,24 +59,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Program.cs",
+              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeToolTip": "CourseManager.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:20:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CourseManager.Services",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\CourseManager.Services.csproj",
               "RelativeDocumentMoniker": "CourseManager.Services\\CourseManager.Services.csproj",
               "ToolTip": "D:\\CourseManager\\CourseManager.Services\\CourseManager.Services.csproj",
               "RelativeToolTip": "CourseManager.Services\\CourseManager.Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:19:34.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CourseManager.Mapping",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj",
               "RelativeDocumentMoniker": "CourseManager.Mapping\\CourseManager.Mapping.csproj",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj*",
-              "RelativeToolTip": "CourseManager.Mapping\\CourseManager.Mapping.csproj*",
+              "ToolTip": "D:\\CourseManager\\CourseManager.Mapping\\CourseManager.Mapping.csproj",
+              "RelativeToolTip": "CourseManager.Mapping\\CourseManager.Mapping.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:19:31.797Z",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CourseManager.Domain",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
               "RelativeDocumentMoniker": "CourseManager.Domain\\CourseManager.Domain.csproj",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CourseManager.Data",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
               "RelativeDocumentMoniker": "CourseManager.Data\\CourseManager.Data.csproj",
@@ -106,12 +123,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CourseManager.API",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
               "RelativeDocumentMoniker": "CourseManager.API\\CourseManager.API.csproj",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\CourseManager.API.csproj*",
-              "RelativeToolTip": "CourseManager.API\\CourseManager.API.csproj*",
+              "ToolTip": "D:\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
+              "RelativeToolTip": "CourseManager.API\\CourseManager.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:14:44.917Z",
@@ -119,12 +136,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CourseManager.DTO",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj",
               "RelativeDocumentMoniker": "CourseManager.DTO\\CourseManager.DTO.csproj",
-              "ToolTip": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj*",
-              "RelativeToolTip": "CourseManager.DTO\\CourseManager.DTO.csproj*",
+              "ToolTip": "D:\\CourseManager\\CourseManager.DTO\\CourseManager.DTO.csproj",
+              "RelativeToolTip": "CourseManager.DTO\\CourseManager.DTO.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-29T02:14:22.837Z",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "D:\\CourseManager\\CourseManager.Mapping\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "CourseManager.Mapping\\AutoMapperProfile.cs",
