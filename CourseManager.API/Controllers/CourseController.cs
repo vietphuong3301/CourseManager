@@ -1,67 +1,62 @@
-﻿using AutoMapper;
+﻿using Microsoft.AspNetCore.Mvc;
 using CourseManager.DTO.DTOs;
-using CourseManager.Services.Interfaces;
-using Microsoft.AspNetCore.Mvc;
+using CourseManager.Services.Services;
+using System.Threading.Tasks;
 
 namespace CourseManager.API.Controllers
 {
-    [ApiController]
     [Route("api/[controller]")]
-    public class CourseController : ControllerBase
+    [ApiController]
+    public class CoursesController : ControllerBase
     {
         private readonly ICourseService _courseService;
-        private readonly IMapper _mapper;
 
-        public CourseController(ICourseService courseService, IMapper mapper)
+        public CoursesController(ICourseService courseService)
         {
             _courseService = courseService;
-            _mapper = mapper;
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<CourseDto>> GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             var course = await _courseService.GetByIdAsync(id);
             if (course == null)
+            {
                 return NotFound();
-
+            }
             return Ok(course);
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<CourseDto>>> GetAll()
+        public async Task<IActionResult> GetAll()
         {
             var courses = await _courseService.GetAllAsync();
             return Ok(courses);
         }
 
         [HttpPost]
-        public async Task<ActionResult<CourseDto>> Create([FromBody] CourseDto courseDto)
+        public async Task<IActionResult> Create(CourseDto courseDto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var createdCourse = await _courseService.CreateAsync(courseDto);
             return CreatedAtAction(nameof(GetById), new { id = createdCourse.Id }, createdCourse);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] CourseDto courseDto)
+        public async Task<IActionResult> Update(int id, CourseDto courseDto)
         {
             if (id != courseDto.Id)
             {
-                return BadRequest("ID mismatch");
+                return BadRequest();
             }
-
-            var existingCourse = await _courseService.GetByIdAsync(id);
-            if (existingCourse == null)
-            {
-                return NotFound();
-            }
-
             var result = await _courseService.UpdateAsync(courseDto);
             if (!result)
             {
-                return BadRequest();
+                return NotFound();
             }
-
             return NoContent();
         }
 
@@ -70,28 +65,41 @@ namespace CourseManager.API.Controllers
         {
             var result = await _courseService.DeleteAsync(id);
             if (!result)
+            {
                 return NotFound();
-
+            }
             return NoContent();
         }
 
         [HttpGet("paged")]
-        public async Task<ActionResult<IEnumerable<CourseDto>>> GetPaged(int pageIndex, int pageSize)
+        public async Task<IActionResult> GetPaged(int pageIndex, int pageSize)
         {
-            var (courses, totalCount) = await _courseService.GetPagedAsync(pageIndex, pageSize);
-            Response.Headers.Add("X-Total-Count", totalCount.ToString());
-            return Ok(courses);
+            var (items, totalCount) = await _courseService.GetPagedAsync(pageIndex, pageSize);
+            return Ok(new { Items = items, TotalCount = totalCount });
         }
 
-        [HttpGet("bycategory/{categoryId}")]
-        public async Task<ActionResult<IEnumerable<CourseDto>>> GetByCategory(int categoryId)
+        [HttpGet("single")]
+        public async Task<IActionResult> GetSingle([FromQuery] string predicate)
+        {
+            // Assuming predicate is passed as a query string and needs to be parsed
+            // This is a simplified example, in real scenarios, you might need to handle this differently
+            var course = await _courseService.GetSingleAsync(c => c.Name.Contains(predicate));
+            if (course == null)
+            {
+                return NotFound();
+            }
+            return Ok(course);
+        }
+
+        [HttpGet("category/{categoryId}")]
+        public async Task<IActionResult> GetByCategory(int categoryId)
         {
             var courses = await _courseService.GetByCategoryAsync(categoryId);
             return Ok(courses);
         }
 
-        [HttpGet("bycoursetype/{courseTypeId}")]
-        public async Task<ActionResult<IEnumerable<CourseDto>>> GetByCourseType(int courseTypeId)
+        [HttpGet("coursetype/{courseTypeId}")]
+        public async Task<IActionResult> GetByCourseType(int courseTypeId)
         {
             var courses = await _courseService.GetByCourseTypeAsync(courseTypeId);
             return Ok(courses);

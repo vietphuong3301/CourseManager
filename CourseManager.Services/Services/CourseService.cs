@@ -2,19 +2,16 @@
 using CourseManager.Domain.Entities;
 using CourseManager.Domain.Interfaces;
 using CourseManager.DTO.DTOs;
-using System;
-using System.Collections.Generic;
 using System.Linq.Expressions;
-using System.Threading.Tasks;
 
 namespace CourseManager.Services.Services
 {
     public interface ICourseService
     {
-        Task<CourseDto> GetById(int id);
-        Task<IEnumerable<CourseDto>> GetAll();
-        Task<CourseDto> CreateAsync(CourseDto course);
-        Task<bool> UpdateAsync(CourseDto course);
+        Task<CourseDto> GetByIdAsync(int id);
+        Task<IEnumerable<CourseDto>> GetAllAsync();
+        Task<CourseDto> CreateAsync(CourseDto courseDto);
+        Task<bool> UpdateAsync(CourseDto courseDto);
         Task<bool> DeleteAsync(int id);
         Task<(IEnumerable<CourseDto> Items, int TotalCount)> GetPagedAsync(int pageIndex, int pageSize);
         Task<CourseDto> GetSingleAsync(Expression<Func<CourseDto, bool>> predicate);
@@ -46,13 +43,13 @@ namespace CourseManager.Services.Services
             return true;
         }
 
-        public async Task<IEnumerable<CourseDto>> GetAll()
+        public async Task<IEnumerable<CourseDto>> GetAllAsync()
         {
             var courses = await _courseRepository.GetAllAsync();
             return _mapper.Map<IEnumerable<CourseDto>>(courses);
         }
 
-        public async Task<CourseDto> GetById(int id)
+        public async Task<CourseDto> GetByIdAsync(int id)
         {
             var course = await _courseRepository.GetByIdAsync(id);
             return _mapper.Map<CourseDto>(course);
@@ -67,7 +64,6 @@ namespace CourseManager.Services.Services
 
         public async Task<CourseDto> GetSingleAsync(Expression<Func<CourseDto, bool>> predicate)
         {
-            // Chuyển đổi predicate từ CourseDto sang Course
             var coursePredicate = _mapper.Map<Expression<Func<Course, bool>>>(predicate);
             var course = await _courseRepository.GetSingleAsync(coursePredicate);
             return _mapper.Map<CourseDto>(course);

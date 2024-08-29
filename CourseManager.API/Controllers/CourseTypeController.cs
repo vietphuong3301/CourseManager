@@ -1,55 +1,59 @@
-﻿using AutoMapper;
+﻿using Microsoft.AspNetCore.Mvc;
 using CourseManager.DTO.DTOs;
-using CourseManager.Services.Interfaces;
-using Microsoft.AspNetCore.Mvc;
+using CourseManager.Services.Services;
+using System.Threading.Tasks;
 
 namespace CourseManager.API.Controllers
 {
-    [ApiController]
     [Route("api/[controller]")]
-    public class CourseTypeController : ControllerBase
+    [ApiController]
+    public class CourseTypesController : ControllerBase
     {
         private readonly ICourseTypeService _courseTypeService;
-        private readonly IMapper _mapper;
 
-        public CourseTypeController(ICourseTypeService courseTypeService, IMapper mapper)
+        public CourseTypesController(ICourseTypeService courseTypeService)
         {
             _courseTypeService = courseTypeService;
-            _mapper = mapper;
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<CourseTypeDto>> GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             var courseType = await _courseTypeService.GetByIdAsync(id);
             if (courseType == null)
+            {
                 return NotFound();
-
+            }
             return Ok(courseType);
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<CourseTypeDto>>> GetAll()
+        public async Task<IActionResult> GetAll()
         {
             var courseTypes = await _courseTypeService.GetAllAsync();
             return Ok(courseTypes);
         }
 
         [HttpPost]
-        public async Task<ActionResult<CourseTypeDto>> Create([FromBody] CourseTypeDto courseTypeDto)
+        public async Task<IActionResult> Create(CourseTypeDto courseTypeDto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var createdCourseType = await _courseTypeService.CreateAsync(courseTypeDto);
             return CreatedAtAction(nameof(GetById), new { id = createdCourseType.Id }, createdCourseType);
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Update([FromBody] CourseTypeDto courseTypeDto)
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, CourseTypeDto courseTypeDto)
         {
-            var result = await _courseTypeService.UpdateAsync(courseTypeDto);
-            if (!result)
+            if (id != courseTypeDto.Id)
+            {
                 return BadRequest();
-
-            return NoContent();
+            }
+            var updatedCourseType = await _courseTypeService.UpdateAsync(courseTypeDto);
+            return Ok(updatedCourseType);
         }
 
         [HttpDelete("{id}")]
@@ -57,17 +61,30 @@ namespace CourseManager.API.Controllers
         {
             var result = await _courseTypeService.DeleteAsync(id);
             if (!result)
+            {
                 return NotFound();
-
+            }
             return NoContent();
         }
 
         [HttpGet("paged")]
-        public async Task<ActionResult<IEnumerable<CourseTypeDto>>> GetPaged(int pageIndex, int pageSize)
+        public async Task<IActionResult> GetPaged(int pageIndex, int pageSize)
         {
-            var (courseTypes, totalCount) = await _courseTypeService.GetPagedAsync(pageIndex, pageSize);
-            Response.Headers.Add("X-Total-Count", totalCount.ToString());
-            return Ok(courseTypes);
+            var (items, totalCount) = await _courseTypeService.GetPagedAsync(pageIndex, pageSize);
+            return Ok(new { Items = items, TotalCount = totalCount });
+        }
+
+        [HttpGet("single")]
+        public async Task<IActionResult> GetSingle([FromQuery] string predicate)
+        {
+            // Assuming predicate is passed as a query string and needs to be parsed
+            // This is a simplified example, in real scenarios, you might need to handle this differently
+            var courseType = await _courseTypeService.GetSingleAsync(c => c.Name.Contains(predicate));
+            if (courseType == null)
+            {
+                return NotFound();
+            }
+            return Ok(courseType);
         }
     }
 }
