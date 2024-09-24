@@ -1,6 +1,6 @@
 ﻿namespace CourseManager.DTO.DTOs
 {
-    public class UserDto
+    public class UserDto : BaseDto
     {
         public string Address { get; set; }
         public string Email { get; set; }

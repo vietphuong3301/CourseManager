@@ -1,6 +1,6 @@
 ﻿namespace CourseManager.DTO.DTOs
 {
-    public class GradeDto
+    public class GradeDto : BaseDto
     {
         public decimal Score { get; set; }
         public CourseDto Course { get; set; }

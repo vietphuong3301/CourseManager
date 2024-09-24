@@ -11,3 +11,16 @@ D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.dll
 D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\refint\CourseManager.DTO.dll
 D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.pdb
 D:\CourseManager\CourseManager.DTO\obj\Debug\net8.0\ref\CourseManager.DTO.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.deps.json
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\bin\Debug\net8.0\CourseManager.DTO.pdb
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.csproj.AssemblyReference.cache
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.AssemblyInfoInputs.cache
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.AssemblyInfo.cs
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.sourcelink.json
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\refint\CourseManager.DTO.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\CourseManager.DTO.pdb
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.DTO\obj\Debug\net8.0\ref\CourseManager.DTO.dll

@@ -10,3 +10,15 @@ D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.dll
 D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\refint\CourseManager.Domain.dll
 D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.pdb
 D:\CourseManager\CourseManager.Domain\obj\Debug\net8.0\ref\CourseManager.Domain.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.deps.json
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\bin\Debug\net8.0\CourseManager.Domain.pdb
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.AssemblyInfoInputs.cache
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.AssemblyInfo.cs
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.sourcelink.json
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\refint\CourseManager.Domain.dll
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\CourseManager.Domain.pdb
+C:\Users\vietp\Source\Repos\CourseManager\CourseManager.Domain\obj\Debug\net8.0\ref\CourseManager.Domain.dll

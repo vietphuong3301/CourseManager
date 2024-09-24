@@ -71,6 +71,21 @@ namespace CourseManager.Data
                 .HasForeignKey(g => g.CourseId)
                 .OnDelete(DeleteBehavior.Cascade);
         }
-
+        public override int SaveChanges()
+        {
+            var entities = ChangeTracker
+                .Entries()
+                .Where(e => e.Entity is BaseEntity && 
+                (e.State == EntityState.Added || e.State == EntityState.Modified));
+            foreach (var e in entities)
+            {
+                ((BaseEntity)e.Entity).UpdatedDate = DateTime.Now;
+                if(e.State == EntityState.Added)
+                {
+                    ((BaseEntity)e.Entity).CreatedDate = DateTime.Now;
+                }
+            }
+            return base.SaveChanges();
+        }
     }
 }

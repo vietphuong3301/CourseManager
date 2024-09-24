@@ -1,12 +1,17 @@
 ﻿using CourseManager.Domain.Entities.CourseManager.Domain.Entities;
+using System.ComponentModel.DataAnnotations;
 
 namespace CourseManager.Domain.Entities
 {
-    public class Course
+    public class Course :  BaseEntity
     {
-        public int CourseId { get; set; }
+        [MaxLength(256)]
+        [Required]
         public string Name { get; set; }
+        [MaxLength(256)]
+        [Required]
         public string Title { get; set; }
+        [MaxLength(256)]
         public string Description { get; set; }
         public int Credits { get; set; }
         public int CategoryId { get; set; }

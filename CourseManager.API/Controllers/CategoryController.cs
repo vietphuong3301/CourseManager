@@ -57,7 +57,8 @@ namespace CourseManager.API.Controllers
             {
                 return NotFound();
             }
-            return NoContent();
+            var updateCategory = await _categoryService.GetByIdAsync(id);
+            return Ok(updateCategory);
         }
 
         [HttpDelete("{id}")]
@@ -67,8 +68,9 @@ namespace CourseManager.API.Controllers
             if (!result)
             {
                 return NotFound();
-            }
-            return NoContent();
+            } 
+            var findNameCategory = await _categoryService.GetByIdAsync(id);
+            return Ok(new {message = "Delete Course successfully"});
         }
 
         [HttpGet("paged")]

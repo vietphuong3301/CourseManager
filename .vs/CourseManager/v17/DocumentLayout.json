@@ -1,50 +1,134 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CourseManager\\",
+  "WorkspaceRootPath": "C:\\Users\\vietp\\source\\repos\\CourseManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\controllers\\coursetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\controllers\\coursetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|d:\\coursemanager\\coursemanager.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\controllers\\coursetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\controllers\\coursetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|d:\\coursemanager\\coursemanager.dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\usercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\usercoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\coursetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\coursetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E836BEDE-6101-4D0E-BC58-67F70A28F40A}|CourseManager.DTO\\CourseManager.DTO.csproj|solutionrelative:coursemanager.dto\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|d:\\coursemanager\\coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|d:\\coursemanager\\coursemanager.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\usercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87051F44-C38B-43DC-B614-EF7D8586EE99}|CourseManager.Data\\CourseManager.Data.csproj|solutionrelative:coursemanager.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|d:\\coursemanager\\coursemanager.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06328578-893F-4F7F-90CF-6E072284C42C}|CourseManager.Domain\\CourseManager.Domain.csproj|solutionrelative:coursemanager.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\coursetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0262CE25-B52C-40EC-9629-CFB0851A91E5}|CourseManager.API\\CourseManager.API.csproj|solutionrelative:coursemanager.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|c:\\users\\vietp\\source\\repos\\coursemanager\\coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C63504A-5953-4593-9614-8FF2F72EF4B5}|CourseManager.Services\\CourseManager.Services.csproj|solutionrelative:coursemanager.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,138 +154,386 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Domain\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Course.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Domain\\Entities\\Course.cs",
-              "RelativeToolTip": "CourseManager.Domain\\Entities\\Course.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAcAAAAoAAAA",
+              "DocumentIndex": 1,
+              "Title": "CourseTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CourseTypeController.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CourseTypeController.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CourseTypeController.cs",
+              "RelativeToolTip": "CourseManager.API\\Controllers\\CourseTypeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:02:53.372Z",
+              "WhenOpened": "2024-09-20T02:18:54.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseManager.API\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:17:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:11:18.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CourseManager.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CourseManager.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:10:17.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CourseManager.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:50:46.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\BaseDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\BaseDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:42:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:43:39.978Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:43:51.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Grade.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Grade.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Grade.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:50:24.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:22:43.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CourseManager.Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "CourseManager.Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:17:41.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\UserCourseDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\UserCourseDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\UserCourseDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\UserCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:36.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:29.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\GradeDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\GradeDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\GradeDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\GradeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CourseTypeDto.cs",
+              "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\CourseTypeDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CourseTypeDto.cs",
+              "RelativeToolTip": "CourseManager.DTO\\DTOs\\CourseTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:10:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CourseDto.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.DTO\\DTOs\\CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CourseDto.cs",
               "RelativeDocumentMoniker": "CourseManager.DTO\\DTOs\\CourseDto.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.DTO\\DTOs\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.DTO\\DTOs\\CourseDto.cs",
               "RelativeToolTip": "CourseManager.DTO\\DTOs\\CourseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T09:01:57.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseTypeController.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Controllers\\CourseTypeController.cs",
-              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CourseTypeController.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Controllers\\CourseTypeController.cs",
-              "RelativeToolTip": "CourseManager.API\\Controllers\\CourseTypeController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowE0AAAAAAAAA",
+              "DocumentIndex": 20,
+              "Title": "UserCourse.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\UserCourse.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\UserCourse.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\UserCourse.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\UserCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:59:48.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T03:52:23.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "CourseManager.API\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAjwE8AAAAAAAAA",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\Program.cs",
+              "RelativeToolTip": "CourseManager.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:59:20.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T06:17:13.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CourseManager.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CourseManager.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAswFEAAAAAAAAA",
+              "DocumentIndex": 17,
+              "Title": "CourseType.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\CourseType.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\CourseType.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\CourseType.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\CourseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:47:33.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T03:50:17.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseManager.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\appsettings.json",
+              "RelativeToolTip": "CourseManager.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T06:17:15.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:49:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "CourseManager.Data\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T08:43:53.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Data\\Repositories\\BaseRepository.cs",
               "RelativeToolTip": "CourseManager.Data\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDQAAAAJAAAA",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T08:43:46.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T08:43:46.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:52:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:52:07.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Instructor.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Instructor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:50:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "CourseManager.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "CourseManager.Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:02:53.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "CourseTypeService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
               "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CourseTypeService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CourseTypeService.cs",
               "RelativeToolTip": "CourseManager.Services\\Services\\CourseTypeService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAwDkAAABrAAAA",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwDkAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T08:27:42.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "CourseService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CourseService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CourseService.cs",
               "RelativeToolTip": "CourseManager.Services\\Services\\CourseService.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFsAAAAAAAAA",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T08:27:37.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.API\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CourseManager.API\\WeatherForecast.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.API\\WeatherForecast.cs",
               "RelativeToolTip": "CourseManager.API\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T08:21:11.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 31,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "CourseManager.Services\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\vietp\\source\\repos\\CourseManager\\CourseManager.Services\\Services\\CategoryService.cs",
               "RelativeToolTip": "CourseManager.Services\\Services\\CategoryService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAA5wE0AAAAAAAAA",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T08:19:23.372Z"
             }

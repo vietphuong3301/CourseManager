@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s+ZcTlmHG7JhY/VBblqxjEZedB4W24loCac/NXN7nvnup7+EMqlh22Fztjr4yug8K6NDxoLfmEekSDxq1982mA==",
+  "dgSpecHash": "rnnBHG36srE=",
   "success": true,
-  "projectFilePath": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
+  "projectFilePath": "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\vietp\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

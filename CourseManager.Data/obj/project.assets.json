@@ -4229,24 +4229,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vietp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
+      "projectUniqueName": "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
       "projectName": "CourseManager.Data",
-      "projectPath": "D:\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\CourseManager\\CourseManager.Data\\obj\\",
+      "projectPath": "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Data\\CourseManager.Data.csproj",
+      "packagesPath": "C:\\Users\\vietp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vietp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4254,14 +4249,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj": {
-              "projectPath": "D:\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj"
+            "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\vietp\\Source\\Repos\\CourseManager\\CourseManager.Domain\\CourseManager.Domain.csproj"
             }
           }
         }
@@ -4318,7 +4314,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

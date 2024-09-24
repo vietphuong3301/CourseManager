@@ -2,9 +2,8 @@
 {
     namespace CourseManager.Domain.Entities
     {
-        public class Grade
+        public class Grade : BaseEntity
         {
-            public int Id { get; set; }
             public int StudentId { get; set; }
             public Student Student { get; set; }
             public int CourseId { get; set; }

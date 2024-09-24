@@ -1,8 +1,11 @@
-﻿namespace CourseManager.Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CourseManager.Domain.Entities
 {
-    public class Role
+    public class Role : BaseEntity
     {
-        public int RoleId { get; set; }
+        [Required]
+        [MaxLength(256)]
         public string RoleName { get; set; }
 
         // Navigation properties

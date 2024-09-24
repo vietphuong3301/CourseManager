@@ -1,8 +1,11 @@
-﻿namespace CourseManager.Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CourseManager.Domain.Entities
 {
-    public class Category
+    public class Category : BaseEntity
     {
-        public int CategoryID { get; set; }
+        [Required]
+        [MaxLength(256)]
         public string Name { get; set; }
 
         public ICollection<Course> Courses { get; set; }

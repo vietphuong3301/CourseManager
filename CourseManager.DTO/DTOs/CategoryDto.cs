@@ -1,8 +1,8 @@
 ﻿namespace CourseManager.DTO.DTOs
 {
-    public class CategoryDto
+    public class CategoryDto : BaseDto
     {
-        public int Id { get; set; }
+
         public string Name { get; set; }
     }
 }
